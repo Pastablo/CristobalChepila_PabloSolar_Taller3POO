@@ -1,0 +1,14 @@
+==== REPORTE DE PROYECTOS ====
+
+PR001 | Plataforma de E-commerce | Resp: admin1
+   * T001 | Bug | Error en el login de usuarios | Pendiente | Resp: colab1 | Alta | 2025-08-01
+   * T002 | Feature | Agregar carrito de compras | Pendiente | Resp: colab2 | Media | 2025-08-01
+   * T003 | Documentacion | Redactar manual de usuario | En progreso | Resp: colab1 | Baja | 2025-08-02
+
+PR002 | Sistema de Inventario | Resp: admin2
+   * T004 | Feature | Implementar módulo de reportes | Pendiente | Resp: colab2 | Alta | 2025-08-02
+   * T005 | Bug | Fallo en exportación de datos | Pendiente | Resp: colab1 | Alta | 2025-08-03
+
+PR003 | Aplicación Móvil de Reservas | Resp: admin3
+   * T006 | Feature | Diseñar pantalla de reservas | Pendiente | Resp: colab1 | Media | 2025-08-04
+   * T007 | Documentacion | Escribir casos de uso | Pendiente | Resp: colab2 | Baja | 2025-08-03
